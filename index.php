@@ -118,13 +118,13 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto py-0">
-                <a href="index.html" class="nav-item nav-link active">Home</a>
-                <a href="about.html" class="nav-item nav-link">About</a>
-                <a href="service.html" class="nav-item nav-link">Service</a>
-                <a href="Gallery.html" class="nav-item nav-link">Facilities</a>
-                <a href="Doctors.html" class="nav-item nav-link">Doctors</a>
-                <a href="contact.html" class="nav-item nav-link">Contact</a>
-                <a href="login.php" class="nav-item nav-link">login</a>
+                <a href="index.html" target="_blank" class="nav-item nav-link active">Home</a>
+                <a href="about.html" target="_blank" class="nav-item nav-link">About</a>
+                <a href="service.html" target="_blank" class="nav-item nav-link">Service</a>
+                <a href="Gallery.html" target="_blank" class="nav-item nav-link">Facilities</a>
+                <a href="Doctors.html" target="_blank" class="nav-item nav-link">Doctors</a>
+                <a href="contact.html" target="_blank" class="nav-item nav-link">Contact</a>
+                <a href="login.php" target="_blank" class="nav-item nav-link">login</a>
             </div>
             <div id="but">
                 <button class="animated slideInLeft" id="btn"><a id="dev"
